@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1001,
+    "userId": 1,
+    "items": [
+      {
+        "id": 1,
+        "name": "iPhone 15 Pro Max",
+        "price": 1199,
+        "quantity": 1
+      }
+    ],
+    "total": "1199.00",
+    "status": "Processing",
+    "createdAt": "2024-01-15T10:30:00.000Z"
+  }
+]
