@@ -1,1 +1,866 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "category": "Mobiles",
+    "brand": "Apple",
+    "price": 99517,
+    "originalPrice": 116117,
+    "discount": 14,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500",
+    "description": "Latest iPhone with titanium design",
+    "specifications": [
+      "6.7-inch Super Retina XDR",
+      "A17 Pro chip",
+      "48MP camera",
+      "5G"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Mobiles",
+    "brand": "Samsung",
+    "price": 82917,
+    "originalPrice": 107817,
+    "discount": 23,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+    "description": "Premium Android flagship",
+    "specifications": [
+      "6.8-inch AMOLED",
+      "Snapdragon 8 Gen 3",
+      "200MP camera",
+      "S Pen"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "category": "Mobiles",
+    "brand": "Google",
+    "price": 66317,
+    "originalPrice": 82917,
+    "discount": 20,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+    "description": "Pure Android experience",
+    "specifications": [
+      "6.7-inch OLED",
+      "Tensor G3",
+      "50MP camera",
+      "7 years updates"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 12",
+    "category": "Mobiles",
+    "brand": "OnePlus",
+    "price": 58017,
+    "originalPrice": 74617,
+    "discount": 22,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=500",
+    "description": "Fast charging flagship",
+    "specifications": [
+      "6.82-inch AMOLED",
+      "Snapdragon 8 Gen 3",
+      "100W charging",
+      "Hasselblad"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 14 Ultra",
+    "category": "Mobiles",
+    "brand": "Xiaomi",
+    "price": 49717,
+    "originalPrice": 66317,
+    "discount": 25,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1567721913486-6585f069b332?w=500",
+    "description": "Photography-focused smartphone",
+    "specifications": [
+      "6.73-inch AMOLED",
+      "Snapdragon 8 Gen 3",
+      "Leica camera",
+      "90W charging"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Nothing Phone 2",
+    "category": "Mobiles",
+    "brand": "Nothing",
+    "price": 41417,
+    "originalPrice": 58017,
+    "discount": 29,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=500",
+    "description": "Unique transparent design",
+    "specifications": [
+      "6.7-inch AMOLED",
+      "Snapdragon 8+ Gen 1",
+      "Glyph interface",
+      "Wireless charging"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "MacBook Pro 16 M3 Max",
+    "category": "Laptops",
+    "brand": "Apple",
+    "price": 207417,
+    "originalPrice": 248917,
+    "discount": 17,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500",
+    "description": "Ultimate creative powerhouse",
+    "specifications": [
+      "16-inch Retina XDR",
+      "M3 Max chip",
+      "128GB RAM",
+      "8TB SSD"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Dell XPS 15",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 157617,
+    "originalPrice": 199017,
+    "discount": 21,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+    "description": "Premium Windows laptop",
+    "specifications": [
+      "15.6-inch OLED",
+      "Intel i9",
+      "32GB RAM",
+      "1TB SSD"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "ThinkPad X1 Carbon",
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "price": 132717,
+    "originalPrice": 174217,
+    "discount": 24,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500",
+    "description": "Business ultrabook",
+    "specifications": [
+      "14-inch OLED",
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Asus ROG Zephyrus G16",
+    "category": "Laptops",
+    "brand": "Asus",
+    "price": 182817,
+    "originalPrice": 232617,
+    "discount": 21,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500",
+    "description": "Gaming laptop",
+    "specifications": [
+      "16-inch QHD",
+      "RTX 4090",
+      "32GB RAM",
+      "2TB SSD"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Razer Blade 15",
+    "category": "Laptops",
+    "brand": "Razer",
+    "price": 174217,
+    "originalPrice": 224467,
+    "discount": 22,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=500",
+    "description": "Sleek gaming laptop",
+    "specifications": [
+      "15.6-inch QHD",
+      "RTX 4080",
+      "32GB RAM",
+      "1TB SSD"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Surface Laptop 5",
+    "category": "Laptops",
+    "brand": "Microsoft",
+    "price": 116117,
+    "originalPrice": 149517,
+    "discount": 22,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
+    "description": "Premium Windows laptop",
+    "specifications": [
+      "13.5-inch PixelSense",
+      "Intel i7",
+      "16GB RAM",
+      "512GB SSD"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "AirPods Pro 2",
+    "category": "Earbuds",
+    "brand": "Apple",
+    "price": 16517,
+    "originalPrice": 20667,
+    "discount": 20,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=500",
+    "description": "Premium ANC earbuds",
+    "specifications": [
+      "Active ANC",
+      "Spatial Audio",
+      "H2 chip",
+      "6h battery"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Sony WF-1000XM5",
+    "category": "Earbuds",
+    "brand": "Sony",
+    "price": 16517,
+    "originalPrice": 23167,
+    "discount": 29,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+    "description": "Industry-leading ANC",
+    "specifications": [
+      "LDAC codec",
+      "8h battery",
+      "AI ANC",
+      "IPX4"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Bose QuietComfort",
+    "category": "Earbuds",
+    "brand": "Bose",
+    "price": 14867,
+    "originalPrice": 23167,
+    "discount": 36,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500",
+    "description": "World-class ANC",
+    "specifications": [
+      "11 levels ANC",
+      "6h battery",
+      "IPX4",
+      "CustomTune"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Samsung Galaxy Buds2 Pro",
+    "category": "Earbuds",
+    "brand": "Samsung",
+    "price": 12367,
+    "originalPrice": 16517,
+    "discount": 25,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=500",
+    "description": "Premium Galaxy earbuds",
+    "specifications": [
+      "360 Audio",
+      "ANC",
+      "8h battery",
+      "IPX7"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Nothing Ear 2",
+    "category": "Earbuds",
+    "brand": "Nothing",
+    "price": 8307,
+    "originalPrice": 10707,
+    "discount": 22,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=500",
+    "description": "Transparent design",
+    "specifications": [
+      "ANC",
+      "6.3h battery",
+      "LDAC",
+      "IP54"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Google Pixel Buds Pro",
+    "category": "Earbuds",
+    "brand": "Google",
+    "price": 13197,
+    "originalPrice": 16517,
+    "discount": 20,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=500",
+    "description": "Smart earbuds",
+    "specifications": [
+      "Silent Seal ANC",
+      "7h battery",
+      "IPX4",
+      "Google Assistant"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "iPad Pro 12.9 M2",
+    "category": "Tablets",
+    "brand": "Apple",
+    "price": 82917,
+    "originalPrice": 99517,
+    "discount": 17,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "Professional tablet",
+    "specifications": [
+      "12.9-inch XDR",
+      "M2 chip",
+      "Apple Pencil",
+      "5G"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Galaxy Tab S9 Ultra",
+    "category": "Tablets",
+    "brand": "Samsung",
+    "price": 74617,
+    "originalPrice": 99517,
+    "discount": 25,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500",
+    "description": "Android flagship tablet",
+    "specifications": [
+      "14.6-inch AMOLED",
+      "Snapdragon 8 Gen 2",
+      "S Pen",
+      "5G"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Surface Pro 9",
+    "category": "Tablets",
+    "brand": "Microsoft",
+    "price": 66317,
+    "originalPrice": 82917,
+    "discount": 20,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1527698266440-12104e498b76?w=500",
+    "description": "2-in-1 tablet",
+    "specifications": [
+      "13-inch PixelSense",
+      "Intel i7",
+      "Type Cover",
+      "Windows 11"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "iPad Air M2",
+    "category": "Tablets",
+    "brand": "Apple",
+    "price": 49717,
+    "originalPrice": 58017,
+    "discount": 14,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "Powerful iPad",
+    "specifications": [
+      "10.9-inch Liquid Retina",
+      "M2 chip",
+      "Apple Pencil",
+      "Wi-Fi 6E"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "OnePlus Pad",
+    "category": "Tablets",
+    "brand": "OnePlus",
+    "price": 29807,
+    "originalPrice": 37267,
+    "discount": 20,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=500",
+    "description": "Fast tablet",
+    "specifications": [
+      "11.6-inch LCD",
+      "Dimensity 9000",
+      "67W charging",
+      "Dolby Atmos"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Xiaomi Pad 6 Pro",
+    "category": "Tablets",
+    "brand": "Xiaomi",
+    "price": 33117,
+    "originalPrice": 41417,
+    "discount": 20,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1527698266440-12104e498b76?w=500",
+    "description": "Value tablet",
+    "specifications": [
+      "11-inch LCD",
+      "Snapdragon 8+ Gen 1",
+      "Stylus",
+      "8600mAh"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Apple Watch Ultra 2",
+    "category": "Smartwatches",
+    "brand": "Apple",
+    "price": 58017,
+    "originalPrice": 66317,
+    "discount": 13,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=500",
+    "description": "Ultimate adventure watch",
+    "specifications": [
+      "49mm titanium",
+      "S9 SiP",
+      "Action Button",
+      "100m water"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Galaxy Watch 6 Classic",
+    "category": "Smartwatches",
+    "brand": "Samsung",
+    "price": 27317,
+    "originalPrice": 35617,
+    "discount": 23,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "description": "Premium smartwatch",
+    "specifications": [
+      "47mm steel",
+      "Wear OS 4",
+      "Rotating bezel",
+      "5ATM"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Garmin Fenix 7X",
+    "category": "Smartwatches",
+    "brand": "Garmin",
+    "price": 58017,
+    "originalPrice": 74617,
+    "discount": 22,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=500",
+    "description": "Rugged GPS watch",
+    "specifications": [
+      "51mm titanium",
+      "Solar charging",
+      "Multi-GNSS",
+      "10ATM"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Fitbit Sense 2",
+    "category": "Smartwatches",
+    "brand": "Fitbit",
+    "price": 19017,
+    "originalPrice": 24917,
+    "discount": 24,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=500",
+    "description": "Health-focused watch",
+    "specifications": [
+      "40mm aluminum",
+      "ECG",
+      "Stress tracking",
+      "6-day battery"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Amazfit GTR 4",
+    "category": "Smartwatches",
+    "brand": "Amazfit",
+    "price": 14867,
+    "originalPrice": 19017,
+    "discount": 22,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "description": "Long battery watch",
+    "specifications": [
+      "46mm aluminum",
+      "14-day battery",
+      "150+ sports",
+      "5ATM"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "OnePlus Watch 2",
+    "category": "Smartwatches",
+    "brand": "OnePlus",
+    "price": 20667,
+    "originalPrice": 24917,
+    "discount": 17,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=500",
+    "description": "Dual-engine watch",
+    "specifications": [
+      "46mm steel",
+      "Wear OS",
+      "100h battery",
+      "5ATM"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Razer DeathAdder V3 Pro",
+    "category": "Gaming Accessories",
+    "brand": "Razer",
+    "price": 10707,
+    "originalPrice": 12367,
+    "discount": 13,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+    "description": "Wireless gaming mouse",
+    "specifications": [
+      "Focus Pro 30K",
+      "90h battery",
+      "63g weight",
+      "HyperSpeed"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Logitech G Pro X Superlight",
+    "category": "Gaming Accessories",
+    "brand": "Logitech",
+    "price": 12367,
+    "originalPrice": 13197,
+    "discount": 6,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500",
+    "description": "Ultra-light mouse",
+    "specifications": [
+      "HERO 25K",
+      "70h battery",
+      "63g weight",
+      "LIGHTSPEED"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "SteelSeries Arctis Nova Pro",
+    "category": "Gaming Accessories",
+    "brand": "SteelSeries",
+    "price": 20667,
+    "originalPrice": 28977,
+    "discount": 29,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=500",
+    "description": "Premium headset",
+    "specifications": [
+      "Hi-Res audio",
+      "Active ANC",
+      "GameDAC",
+      "360° audio"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Corsair K70 RGB Pro",
+    "category": "Gaming Accessories",
+    "brand": "Corsair",
+    "price": 11537,
+    "originalPrice": 14867,
+    "discount": 22,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500",
+    "description": "Mechanical keyboard",
+    "specifications": [
+      "Cherry MX switches",
+      "RGB",
+      "Aluminum frame",
+      "USB passthrough"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "HyperX Cloud Alpha",
+    "category": "Gaming Accessories",
+    "brand": "HyperX",
+    "price": 8307,
+    "originalPrice": 10707,
+    "discount": 22,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=500",
+    "description": "Gaming headset",
+    "specifications": [
+      "Dual chamber",
+      "50mm drivers",
+      "Detachable mic",
+      "Aluminum frame"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Asus ROG Strix Scope",
+    "category": "Gaming Accessories",
+    "brand": "Asus",
+    "price": 9957,
+    "originalPrice": 12367,
+    "discount": 19,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500",
+    "description": "TKL keyboard",
+    "specifications": [
+      "Cherry MX Red",
+      "RGB",
+      "Aluminum top",
+      "IP56 rated"
+    ]
+  },
+  {
+    "id": 601,
+    "name": "Sonos Era 300",
+    "category": "Speakers",
+    "brand": "Sonos",
+    "price": 33117,
+    "originalPrice": 37267,
+    "discount": 11,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+    "description": "Spatial audio speaker",
+    "specifications": [
+      "Dolby Atmos",
+      "6 drivers",
+      "Wi-Fi",
+      "Bluetooth"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Bose SoundLink Revolve+",
+    "category": "Speakers",
+    "brand": "Bose",
+    "price": 19017,
+    "originalPrice": 27317,
+    "discount": 30,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500",
+    "description": "360° portable speaker",
+    "specifications": [
+      "360° sound",
+      "17h battery",
+      "IPX4",
+      "Speakerphone"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "JBL Charge 5",
+    "category": "Speakers",
+    "brand": "JBL",
+    "price": 10707,
+    "originalPrice": 14867,
+    "discount": 28,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500",
+    "description": "Portable speaker",
+    "specifications": [
+      "20h playtime",
+      "IP67",
+      "Powerbank",
+      "PartyBoost"
+    ]
+  },
+  {
+    "id": 604,
+    "name": "Sony SRS-XG500",
+    "category": "Speakers",
+    "brand": "Sony",
+    "price": 24917,
+    "originalPrice": 33117,
+    "discount": 25,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+    "description": "Party speaker",
+    "specifications": [
+      "30h battery",
+      "IP66",
+      "LDAC",
+      "Mic/guitar input"
+    ]
+  },
+  {
+    "id": 605,
+    "name": "Marshall Emberton II",
+    "category": "Speakers",
+    "brand": "Marshall",
+    "price": 12367,
+    "originalPrice": 16517,
+    "discount": 25,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500",
+    "description": "Compact speaker",
+    "specifications": [
+      "30h playtime",
+      "IP67",
+      "True Stereophonic",
+      "Wireless charging"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "JBL Flip 6",
+    "category": "Speakers",
+    "brand": "JBL",
+    "price": 8307,
+    "originalPrice": 10707,
+    "discount": 22,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500",
+    "description": "Compact speaker",
+    "specifications": [
+      "12h playtime",
+      "IP67",
+      "PartyBoost",
+      "Eco-friendly"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "DJI Mini 4 Pro",
+    "category": "Other Gadgets",
+    "brand": "DJI",
+    "price": 62997,
+    "originalPrice": 82917,
+    "discount": 24,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=500",
+    "description": "Compact drone",
+    "specifications": [
+      "4K/60fps HDR",
+      "34min flight",
+      "Omnidirectional",
+      "249g"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "GoPro HERO12 Black",
+    "category": "Other Gadgets",
+    "brand": "GoPro",
+    "price": 28977,
+    "originalPrice": 33117,
+    "discount": 13,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=500",
+    "description": "Action camera",
+    "specifications": [
+      "5.3K60 video",
+      "HyperSmooth 6.0",
+      "10m waterproof",
+      "HDR"
+    ]
+  },
+  {
+    "id": 703,
+    "name": "Meta Quest 3",
+    "category": "Other Gadgets",
+    "brand": "Meta",
+    "price": 37267,
+    "originalPrice": 41417,
+    "discount": 10,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=500",
+    "description": "VR headset",
+    "specifications": [
+      "Snapdragon XR2",
+      "Mixed reality",
+      "4K+ display",
+      "Touch Plus"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "Rode Wireless Pro",
+    "category": "Other Gadgets",
+    "brand": "Rode",
+    "price": 28977,
+    "originalPrice": 33117,
+    "discount": 13,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500",
+    "description": "Wireless mic system",
+    "specifications": [
+      "32-bit float",
+      "40h battery",
+      "Onboard recording",
+      "Intelligent GainAssist"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "Blue Yeti X",
+    "category": "Other Gadgets",
+    "brand": "Blue",
+    "price": 12367,
+    "originalPrice": 16517,
+    "discount": 25,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500",
+    "description": "USB microphone",
+    "specifications": [
+      "4 patterns",
+      "LED metering",
+      "Blue VO!CE",
+      "High-res LED"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Anker PowerCore 20K",
+    "category": "Other Gadgets",
+    "brand": "Anker",
+    "price": 4147,
+    "originalPrice": 4977,
+    "discount": 17,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500",
+    "description": "Power bank",
+    "specifications": [
+      "20000mAh",
+      "22.5W output",
+      "USB-C",
+      "Compact"
+    ]
+  }
+]
